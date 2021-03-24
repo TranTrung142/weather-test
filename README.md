@@ -1,5 +1,5 @@
 # weather
-API is taken from https://rapidapi.com/weatherbit/api/weather?endpoint=5933364be4b08ab68dbc3786
+The database is forged and stored temporarily in public/db.json 😉
 
 ## download project
 #### - Download file zip or run command
