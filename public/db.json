@@ -1,0 +1,47 @@
+{
+	"weather": {
+		"city":"Howdy, Alver",
+		"country":"South Jakarta, Indonesia",
+		"currentTemperature": 30,
+		"status": "Party Cloudy",
+		"humidity": 61,
+		"uv": 11,
+		"wind": 8,
+		"today": [
+			{
+				"session": "Morning",
+				"tempe": 30
+			},
+			{
+				"session": "Afternoon",
+				"tempe": 31
+			},
+			{
+				"session": "Evening",
+				"tempe": 27
+			},
+			{
+				"session": "Night",
+				"tempe": 22
+			}
+		],
+		"tomorrow": [
+			{
+				"session": "Morning",
+				"tempe": 10
+			},
+			{
+				"session": "Afternoon",
+				"tempe": 11
+			},
+			{
+				"session": "Evening",
+				"tempe": 15
+			},
+			{
+				"session": "Night",
+				"tempe": 19
+			}
+		]
+	}
+}
